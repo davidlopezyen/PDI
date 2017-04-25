@@ -1,0 +1,22 @@
+﻿  G1_E1.cpp
+c:\users\operador\desktop\cursado 2016\procesamiendo digital de imagenes\pdi_functions-master\pdi_functions.h(318): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\operador\desktop\cursado 2016\procesamiendo digital de imagenes\pdi_functions-master\pdi_functions.h(319): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\operador\desktop\cursado 2016\procesamiendo digital de imagenes\pdi_functions-master\pdi_functions.h(396): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\operador\desktop\cursado 2016\procesamiendo digital de imagenes\pdi_functions-master\pdi_functions.h(399): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\operador\desktop\cursado 2016\procesamiendo digital de imagenes\pdi_functions-master\pdi_functions.h(419): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\operador\desktop\cursado 2016\procesamiendo digital de imagenes\pdi_functions-master\pdi_functions.h(419): warning C4244: '=': conversion from 'float' to 'pdi::byte', possible loss of data
+c:\users\operador\desktop\cursado 2016\procesamiendo digital de imagenes\pdi_functions-master\pdi_functions.h(427): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\operador\desktop\cursado 2016\procesamiendo digital de imagenes\pdi_functions-master\pdi_functions.h(465): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\operador\desktop\cursado 2016\procesamiendo digital de imagenes\pdi_functions-master\pdi_functions.h(469): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\operador\desktop\cursado 2016\procesamiendo digital de imagenes\pdi_functions-master\pdi_functions.h(473): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\operador\desktop\cursado 2016\procesamiendo digital de imagenes\pdi_functions-master\pdi_functions.h(478): warning C4244: 'argument': conversion from 'std::size_t' to 'double', possible loss of data
+c:\users\operador\desktop\cursado 2016\procesamiendo digital de imagenes\pdi_functions-master\pdi_functions.h(480): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\operador\desktop\cursado 2016\procesamiendo digital de imagenes\pdi_functions-master\pdi_functions.h(492): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\operador\desktop\cursado 2016\procesamiendo digital de imagenes\pdi_functions-master\pdi_functions.h(499): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\operador\desktop\cursado 2016\procesamiendo digital de imagenes\pdi_functions-master\pdi_functions.h(499): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\operador\desktop\cursado 2016\procesamiendo digital de imagenes\pdi_functions-master\pdi_functions.h(510): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\operador\desktop\cursado 2016\procesamiendo digital de imagenes\pdi_functions-master\pdi_functions.h(517): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\operador\desktop\cursado 2016\procesamiendo digital de imagenes\pdi_functions-master\pdi_functions.h(517): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\operador\desktop\cursado 2016\procesamiendo digital de imagenes\pdi_functions-master\pdi_functions.h(570): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  GUIA_1.vcxproj -> C:\Users\Operador\Documents\Visual Studio 2015\Projects\GUIA_1\x64\Debug\GUIA_1.exe
+  GUIA_1.vcxproj -> C:\Users\Operador\Documents\Visual Studio 2015\Projects\GUIA_1\x64\Debug\GUIA_1.pdb (Full PDB)
